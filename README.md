@@ -13,4 +13,4 @@ Hi there
 - npm run dev
 
 
-live url : https://musicplayerspotifyapp.netlify.app/
+demo : https://musicplayerspotifyapp.netlify.app/
