@@ -6,8 +6,11 @@ Hi there
 - npm install
 - npm start
 
-  # nextjs as frontend : steps to install
-  - cd spotify-next
-  - copy .env.example
-  - npm install
-  - npm run dev
+# nextjs as frontend : steps to install
+- cd spotify-next
+- copy .env.example
+- npm install
+- npm run dev
+
+
+live url : https://musicplayerspotifyapp.netlify.app/
